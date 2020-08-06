@@ -13,5 +13,13 @@ Adoro matar o tempo livre com Netflix, ciclismo e assistir esportes - sim, assis
 
 Para entrar em contato, você pode optar pelo meu LinkedIn ou e-mail:
 
-[<img src="https://image.flaticon.com/icons/svg/732/732200.svg" width="16"> E-mail](mailto:chfcchfc96@gmail.com)<br>
-[<img src="https://image.flaticon.com/icons/svg/1384/1384062.svg" width="16"> LinkedIn](https://www.linkedin.com/in/carlos-faustino-992868115/)
+<p>
+  <a href="mailto:chfcchfc96@gmail.com" target="_blank">
+    <img src="https://image.flaticon.com/icons/svg/732/732200.svg" width="16" /> E-mail 
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/carlos-faustino-992868115/" target="_blank">
+    <img src="https://image.flaticon.com/icons/svg/1384/1384062.svg" width="16" /> LinkedIn
+  </a>
+</p>
