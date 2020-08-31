@@ -5,10 +5,9 @@
 
 ## Olá pessoal!!
 
-Sou Carlos Faustino, nascido e criado em São Paulo e fiz da programação a minha profissão.  <br><br>
-Após fazer um curso técnico de informática na ETESP, ainda não tinha me decidido. Aprendi HTML, CSS, JavaScript, Java, C#, ASP.NET, estruturei bancos relacionais, mas ainda faltava algo que me chamasse a atenção. Depois de algumas investidas com o PHP, recebi uma oportunidade para trabalhar com JS e agarrei totalmente.<br><br>
-Hoje crio projetos em Front-end usando React e Sass. :computer:<br><br>
-Ao longo dessa tragetória, aprendi React, NodeJS, TypeScript, Sass e EJS.<br><br>
+Sou Carlos Faustino, desenvolvedor front-end em React.  <br><br>
+Ao longo da minha tragetória, aprendi muitas tecnologias e decidi seguir com JavaScript. Atualmente utilizo JavaScript, React, NodeJS, TypeScript e Sass. :computer:<br><br>
+Também aprendi outras techs, como EJS, Java, C#, ASP.NET, além de modelagem e estruturação de banco relacionais.<br><br>
 Adoro matar o tempo livre com Netflix, ciclismo e assistir esportes - sim, assisto qualquer um.<br><br>
 
 Para entrar em contato, você pode optar pelo meu LinkedIn ou e-mail:
