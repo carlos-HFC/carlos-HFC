@@ -7,18 +7,11 @@
 
 Sou Carlos Faustino, desenvolvedor front-end, com foco em React.  <br><br>
 Ao longo da minha trajetória, aprendi muitas tecnologias e decidi seguir com JavaScript. Atualmente utilizo JavaScript, React, NodeJS, TypeScript e Sass. :computer:<br><br>
-Também aprendi outras techs, como EJS, Java, PHP, além de modelagem e estruturação de banco relacionais.<br><br>
+Também aprendi outras techs, como EJS, Java, PHP, além de modelagem e estruturação de bancos relacionais.<br><br>
 Adoro matar o tempo livre com Netflix, ciclismo e assistir esportes - sim, assisto qualquer um.<br><br>
 
-Para entrar em contato, você pode optar pelo meu LinkedIn ou e-mail:
-
-<p>
-  <a href="mailto:chfcchfc96@gmail.com" target="_blank">
-    <img src="https://image.flaticon.com/icons/svg/732/732200.svg" width="16" /> E-mail 
-  </a>
-</p>
-<p>
-  <a href="https://www.linkedin.com/in/carlos-faustino-992868115/" target="_blank">
-    <img src="https://image.flaticon.com/icons/svg/1384/1384062.svg" width="16" /> LinkedIn
-  </a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chfcchfc96@gmail.com)](mailto:chfcchfc96@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-faustino-992868115)](https://www.linkedin.com/in/carlos-faustino-992868115)
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
